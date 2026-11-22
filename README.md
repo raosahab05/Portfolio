@@ -35,10 +35,7 @@ Run Locally
 
 1. Clone this repository:
 
-git clone YOUR_REPOSITORY_URL
-
-2. Open the project folder in VS Code.
-3. Open "index.html" using Live Server.
+git clone https://github.com/raosahab05/yuvraj-portfolio.git
 
 Connect With Me
 
